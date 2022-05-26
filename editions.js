@@ -17,7 +17,7 @@ const editions = [
         "items": [
             {
                 "name": "Gelb",
-                "images": ["bpjlqpaaxi", "hjrfrfiagf"],
+                "images": ["hjrfrfiagf", "bpjlqpaaxi"],
                 "availability": {
                     "start": "2022-05-24",
                     "end": null
@@ -134,7 +134,7 @@ const editions = [
             },
             {
                 "name": "Pink",
-                "images": ["uguwqpcmud"],
+                "images": ["qwqofbqjls", "uguwqpcmud"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -174,7 +174,7 @@ const editions = [
             },
             {
                 "name": "Mystery Box #2",
-                "images": ["pncodgokmu", "cxvoiyrfwu"],
+                "images": ["cxvoiyrfwu", "pncodgokmu"],
                 "availability": {
                     "start": "2020-11-04",
                     "end": "2020-11-04"
@@ -582,7 +582,7 @@ const editions = [
             },
             {
                 "name": "1916",
-                "images": ["ajlhsyweuq"],
+                "images": ["fqmzdglojn", "ajlhsyweuq"],
                 "availability": {
                     "start": "12-07-13",
                     "end": null

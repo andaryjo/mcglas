@@ -370,6 +370,12 @@ const images = {
     },
     "dgolirztet": {
         "source": "https://www.ebay.de/itm/284649669439"
+    },
+    "qwqofbqjls": {
+        "source": "https://github.com/andaryjo"
+    },
+    "fqmzdglojn": {
+        "source": "https://github.com/andaryjo"
     }
 
 
