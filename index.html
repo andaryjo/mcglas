@@ -1,9 +1,14 @@
-<html>
+<!doctype html>
+
+<html lang="de">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>McGlas</title>
+    <meta name="description" content="Übersicht über alle McDonald's® Coca Cola® Gläser.">
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
         crossorigin="anonymous">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
@@ -38,6 +43,12 @@
 <body>
 
     <div class="container" x-data="data()" x-init="load()">
+        <br>
+
+        <h2>McGlas</h2>
+        <p>Das Ziel des McGlas Projekts ist es, eine vollständige List von allen jemals von McDonald's® ausgegebenen Coca Cola® Gläsern zu pflegen. Der Umfang ist momentan noch limitiert auf
+            Deutschland.</p>
+        <p>Diese Webseite ist open-source auf <a href="https://github.com/andaryjo/mcglas" target="_blank">GitHub</a>.</p>
         <br>
 
         <template x-for="(edition, i) in editions">
