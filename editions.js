@@ -25,7 +25,7 @@ const editions = [
             },
             {
                 "name": "Pink",
-                "images": ["ucisakcakm", "dyhftuebph", "vrkuxiyyep"],
+                "images": ["ucisakcakm", "vrkuxiyyep", "dyhftuebph"],
                 "availability": {
                     "start": "2022-05-24",
                     "end": null
@@ -49,7 +49,7 @@ const editions = [
             },
             {
                 "name": "Aqua",
-                "images": ["jcvdbivzrv"],
+                "images": ["gjwwfrzpfi", "fljfxaexdp", "jcvdbivzrv"],
                 "availability": {
                     "start": "2022-05-24",
                     "end": null
