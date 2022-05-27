@@ -287,9 +287,6 @@ const images = {
     "fjyoduvawf": {
         "source": "https://www.ebay-kleinanzeigen.de/s-anzeige/coca-cola-glaeser-x-3-aus-dem-jahr-2006/2105438228-86-4253"
     },
-    "nhuulntfar": {
-        "source": "https://github.com/andaryjo"
-    },
     "ggzpvwbbgt": {
         "source": "https://www.ebay-kleinanzeigen.de/s-anzeige/mc-donalds-coca-cola-glaeser-2010/2075186646-234-1566"
     },

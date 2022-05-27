@@ -729,19 +729,6 @@ const editions = [
         ]
     },
     {
-        "name": "McCafé Kaffeetasse 2010",
-        "items": [
-            {
-                "name": "Grün",
-                "images": ["nhuulntfar"],
-                "availability": {
-                    "start": null,
-                    "end": null
-                }
-            }
-        ]
-    },
-    {
         "name": "Coca-Cola® Gläser 2009",
         "items": [
             {
