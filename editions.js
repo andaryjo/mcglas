@@ -142,7 +142,7 @@ const editions = [
             },
             {
                 "name": "Nachtblau",
-                "images": ["lxtrmnrvcu"],
+                "images": ["fhnrchdfwy", "lxtrmnrvcu"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -187,7 +187,7 @@ const editions = [
         "items": [
             {
                 "name": "Türkis",
-                "images": ["cmvbtoawec"],
+                "images": ["wvcwgkobhf", "cmvbtoawec"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -460,7 +460,7 @@ const editions = [
         "items": [
             {
                 "name": "Lachsrosa",
-                "images": ["gkirnzksdn"],
+                "images": ["ksnmlgufdn", "gkirnzksdn"],
                 "availability": {
                     "start": null,
                     "end": null
