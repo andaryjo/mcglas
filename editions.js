@@ -33,7 +33,7 @@ const editions = [
             },
             {
                 "name": "Schwarz",
-                "images": ["fmrbpdwexc"],
+                "images": ["zqlsrftcks", "wopkxhxwki", "fmrbpdwexc"],
                 "availability": {
                     "start": "2022-05-24",
                     "end": null
@@ -174,7 +174,7 @@ const editions = [
             },
             {
                 "name": "Mystery Box #2",
-                "images": ["cxvoiyrfwu", "pncodgokmu"],
+                "images": ["xrmmqyypuk", "pncodgokmu"],
                 "availability": {
                     "start": "2020-11-04",
                     "end": "2020-11-04"
