@@ -41,7 +41,7 @@ const editions = [
             },
             {
                 "name": "Nachtblau",
-                "images": ["qfaajhxwhb"],
+                "images": ["npqoegaxsn", "lpsyaijgzn", "qfaajhxwhb"],
                 "availability": {
                     "start": "2022-05-24",
                     "end": null
