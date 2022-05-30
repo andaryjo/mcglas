@@ -1,18 +1,5 @@
 const editions = [
     {
-        "name": "Crew Edition 2022",
-        "items": [
-            {
-                "name": "Regenbogen",
-                "images": ["oazafhxqss", "wombhrfmax", "fndhnzkfuk"],
-                "availability": {
-                    "start": null,
-                    "end": null
-                }
-            }
-        ]
-    },
-    {
         "name": "Limitierte Edition Gläser 2022",
         "items": [
             {
@@ -62,6 +49,13 @@ const editions = [
                     "start": "2022-06-01",
                     "end": "2022-06-01"
                 }
+            }, {
+                "name": "Crew Edition",
+                "images": ["oazafhxqss", "wombhrfmax", "fndhnzkfuk"],
+                "availability": {
+                    "start": null,
+                    "end": null
+                }
             }
 
         ]
@@ -95,6 +89,13 @@ const editions = [
                 "images": ["snmpnjqtba", "zluaysetea"],
                 "availability": {
                     "start": "2021-10-18",
+                    "end": null
+                }
+            }, {
+                "name": "Crew Edition",
+                "images": ["eroegnpngj"],
+                "availability": {
+                    "start": null,
                     "end": null
                 }
             }
@@ -627,7 +628,7 @@ const editions = [
         "items": [
             {
                 "name": "Lila",
-                "images": ["fkwbergdpc"],
+                "images": ["sfdfygqlir", "fkwbergdpc"],
                 "availability": {
                     "start": "2011-07-20",
                     "end": null
@@ -635,7 +636,7 @@ const editions = [
             },
             {
                 "name": "Schwarz",
-                "images": ["ihjijsdhzk"],
+                "images": ["qwzezgaost", "ihjijsdhzk"],
                 "availability": {
                     "start": "2011-07-20",
                     "end": null
@@ -688,7 +689,7 @@ const editions = [
             },
             {
                 "name": "Lila",
-                "images": ["immplanaoh", "jkqqaqpypq"],
+                "images": ["lucwbmotjy", "immplanaoh", "jkqqaqpypq"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -696,7 +697,7 @@ const editions = [
             },
             {
                 "name": "Grün",
-                "images": ["ggzpvwbbgt", "umjisasyzb"],
+                "images": ["kwpwrqshnu", "ggzpvwbbgt", "umjisasyzb"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -704,7 +705,7 @@ const editions = [
             },
             {
                 "name": "Pink",
-                "images": ["wmkwrdswha"],
+                "images": ["irxxwmbjht", "wmkwrdswha"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -712,7 +713,7 @@ const editions = [
             },
             {
                 "name": "Türkis",
-                "images": ["rcehcshkql", "azgzbsniwi"],
+                "images": ["ieznnwdwie", "rcehcshkql", "azgzbsniwi"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -720,7 +721,7 @@ const editions = [
             },
             {
                 "name": "Blau",
-                "images": ["yjcialoecx", "zliflnrwnx"],
+                "images": ["lsgcicmomu", "yjcialoecx", "zliflnrwnx"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -794,7 +795,7 @@ const editions = [
             },
             {
                 "name": "Grün",
-                "images": ["elboglxisd", "xwwboxpbfs"],
+                "images": ["zmlacmsxpa", "elboglxisd"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -802,7 +803,7 @@ const editions = [
             },
             {
                 "name": "Grau",
-                "images": ["udupcmjnzg"],
+                "images": ["spjuqtvico", "udupcmjnzg"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -810,7 +811,7 @@ const editions = [
             },
             {
                 "name": "Blau",
-                "images": ["rpopgvxwzf"],
+                "images": ["xndhepygfy", "rpopgvxwzf"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -818,7 +819,7 @@ const editions = [
             },
             {
                 "name": "Türkis",
-                "images": ["dhohxwdphv", "dgolirztet"],
+                "images": ["dgolirztet", "dhohxwdphv"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -826,7 +827,7 @@ const editions = [
             },
             {
                 "name": "Pink",
-                "images": ["afkaqriahj"],
+                "images": ["rbzzcoitbv", "afkaqriahj"],
                 "availability": {
                     "start": null,
                     "end": null
