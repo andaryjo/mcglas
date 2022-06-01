@@ -4,7 +4,7 @@ const editions = [
         "items": [
             {
                 "name": "Gelb",
-                "images": ["hjrfrfiagf", "bpjlqpaaxi"],
+                "images": ["hjrfrfiagf", "ykatibtqze", "bpjlqpaaxi"],
                 "availability": {
                     "start": "2022-05-24",
                     "end": null
@@ -44,14 +44,14 @@ const editions = [
             },
             {
                 "name": "Regenbogen",
-                "images": ["rhvuopjgpi"],
+                "images": ["exawgnptji", "ofiopgnehr", "rhvuopjgpi"],
                 "availability": {
                     "start": "2022-06-01",
                     "end": "2022-06-01"
                 }
             }, {
                 "name": "Crew Edition",
-                "images": ["oazafhxqss", "wombhrfmax", "fndhnzkfuk"],
+                "images": ["exawgnptji", "oazafhxqss"],
                 "availability": {
                     "start": null,
                     "end": null
