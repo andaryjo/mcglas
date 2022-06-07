@@ -326,7 +326,7 @@ const editions = [
             },
             {
                 "name": "Schwarz",
-                "images": ["zxtusdjoux"],
+                "images": ["yrdleefnrd", "zxtusdjoux"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -416,7 +416,7 @@ const editions = [
             },
             {
                 "name": "Dunkelblau",
-                "images": ["dnavfyhvqg"],
+                "images": ["zogzfkkaou", "dnavfyhvqg"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -424,7 +424,7 @@ const editions = [
             },
             {
                 "name": "Pink",
-                "images": ["morsngmvbx"],
+                "images": ["pfsgdegjcm", "morsngmvbx"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -448,7 +448,7 @@ const editions = [
             },
             {
                 "name": "Türkis",
-                "images": ["wrywhmqdly"],
+                "images": ["hsgspvorqj", "wrywhmqdly"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -477,7 +477,7 @@ const editions = [
             },
             {
                 "name": "Türkis",
-                "images": ["bovgifusff", "fepfprdxpa"],
+                "images": ["hablnigocx", "bovgifusff", "fepfprdxpa"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -530,7 +530,7 @@ const editions = [
             },
             {
                 "name": "Blau",
-                "images": ["glnevuvydu"],
+                "images": ["vxdyhdwalm", "glnevuvydu"],
                 "availability": {
                     "start": null,
                     "end": null
@@ -575,7 +575,7 @@ const editions = [
             },
             {
                 "name": "1900",
-                "images": ["yvwwxmmakj"],
+                "images": ["yfbsrjlpqp", "yvwwxmmakj"],
                 "availability": {
                     "start": "12-07-13",
                     "end": null
@@ -599,7 +599,7 @@ const editions = [
             },
             {
                 "name": "1961",
-                "images": ["jmrasexrgb"],
+                "images": ["sdmvebpdzv", "jmrasexrgb"],
                 "availability": {
                     "start": "12-07-13",
                     "end": null
@@ -628,7 +628,7 @@ const editions = [
         "items": [
             {
                 "name": "Lila",
-                "images": ["sfdfygqlir", "fkwbergdpc"],
+                "images": ["cktsawmimt", "sfdfygqlir", "fkwbergdpc"],
                 "availability": {
                     "start": "2011-07-20",
                     "end": null
@@ -636,7 +636,7 @@ const editions = [
             },
             {
                 "name": "Schwarz",
-                "images": ["qwzezgaost", "ihjijsdhzk"],
+                "images": ["llhhohsozz", "qwzezgaost", "ihjijsdhzk"],
                 "availability": {
                     "start": "2011-07-20",
                     "end": null
@@ -795,7 +795,7 @@ const editions = [
             },
             {
                 "name": "Grün",
-                "images": ["zmlacmsxpa", "elboglxisd"],
+                "images": ["zmlacmsxpa", "dhkxskcnxc", "elboglxisd"],
                 "availability": {
                     "start": null,
                     "end": null
